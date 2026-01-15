@@ -1,0 +1,120 @@
+Type of Polymer 	Utilisation (2-1-0.5-0.25-0) / Recuento	Plastchem ID	CAS Number	Additives	Molecular formula	Molecular weight (g/mol)	Toxicity score (<0,5)
+PBAT+PLA	13	1205	112-05-0	Nonanoic acid / Pelargonic acid	C10H9ClN4S	158,24	0,5
+PBAT+PLA	12	11630	66-25-1	Hexanal	C6H12O	100,16	0,5
+PBAT+PLA	12	1972	124-07-2	Octanoic acid	C8H16O2	144,21	0,5
+PBAT+PLA	11	10042	57-10-3	n-Hexadecanoic acid / Palmitic Acid	C16H32O2	256,42	0,5
+PBAT+PLA	10	1221	112-31-2	Decanal	C10H20O	156,26	0,5
+PBAT+PLA	10	1115	111-71-7	Heptanal	C7H14O	114,19	1
+PBAT+PLA	10	1976	124-13-0	Octanal	C8H16O	128,21	0,5
+PBAT+PLA	10	934	109-52-4	Valeric acid / Pentanoic acid	C5H10O2	102,13	0,5
+PBAT+PLA	9	12627	693-54-9	2-Decanone	C10H20O	156,26	1
+PBAT+PLA	9	15985	98-01-1	Furfural	C5H4O2	96,08	1
+PBAT+PLA	9	7497	334-48-5	n-Decanoic acid / Capric acid	C10H20O2	172,26	0,5
+PBAT+PLA	9	14572	85-44-9	Phthalic anhydride	C8H4O3	148,11	2
+PBAT+PLA	8	1082	111-13-7	2-Octanone	C8H16O	128,21	0,5
+PBAT+PLA	8	1231	112-44-7	Undecanal	C11H22O	170,29	1
+PBAT+PLA	7	10715	6175-49-1	2-Dodecanone	C12H24O	184,32	1
+PBAT+PLA	7	1238	112-54-9	Dodecanal	C12H24O	184,32	1
+PBAT+PLA	7	9670	544-63-8	Myristic Acid / Tetradecanoic acid	C14H28O2	228,37	1
+PBAT+PLA	7	547	10486-19-8	Tridecanal	C13H26O	198,34	1
+PBAT+PLA	6	13981	78-93-3	Methyl Ethyl Ketone / 2-Butanone	C4H8O	72,11	2
+PBAT+PLA	6	14317	821-55-6	2-Nonanone	C9H18O	142,24	0,5
+PBAT+PLA	5	14458	84-66-2	Diethyl Phthalate	C12H14O4	222,24	2
+PBAT+PLA	5	857	108-31-6	Maleic anhydride	C4H2O3	98,06	2
+PBAT+PLA	4	5489	2463-77-6	2-Undecenal	C11H20O	168,28	1
+PBAT+PLA	3	371	103-23-1	Hexanedioic acid / Bis(2-ethylhexyl) adipate	C22H42O4	370,6	2
+PBAT+PLA	3	11031	629-59-4	Tetradecane	C14H30	198,39	0,5
+PBAT+PLA	2	11221	638-65-3	Stearonitrile / Octadecanenitrile	C18H35N	265,5	2
+PBAT+PLA	1	1260	112-91-4	Oleonitrile	C18H33N	263,5	2
+PBAT+PLA	1	8525	4291-79-6	Cyclohexane, 1-methyl-2-propyl-	C10H20	140,27	0,5
+PBAT+PLA	1	5531	24851-98-7	Methyl dihydrojasmonate	C13H22O3	226,31	0,5
+PBAT+PLA	1	14323	822-06-0	Hexane, 1,6-diisocyanato- / Hexamethylene diisocyanate	C8H12N2O2	168,19	2
+PBAT+PLA	1	57	1002-84-2	Pentadecanoic acid	C15H30O2	242,4	0,5
+PBAT+PLA	1	564	105-38-4	Propanoic acid, ethenyl ester / Vinyl propionate	C5H8O2	100,12	0,5
+PLA	1	371	103-23-1	Hexanedioic acid / Bis(2-ethylhexyl) adipate	C22H42O4	370,6	2
+PLA	1	485	104-35-8	Nonoxinol	C17H28O2	264,4	2
+PLA	1	487	104-40-5	4-Nonylphenol	C15H24O	220,35	2
+PLA	1	1253	112-80-1	Oleic Acid	C18H34O2	282,5	0,5
+PLA	1	1368	115-86-6	Triphenyl phosphate	C18H15O4P	326,3	1
+PLA	2	1468	118-82-1	4,4'-Methylenebis(2,6-DI-tert-butylphenol)	C29H44O2	424,7	1
+PLA	2	2140	128-37-0	Butylated Hydroxytoluene	C15H24O	220,35	2
+PLA	1	2275	131-11-3	Dimethyl Phthalate	C10H10O4	194,18	1
+PLA	1	2277	131-17-9	Diallyl phthalate	C14H14O4	246,26	2
+PLA	1	2743	13674-87-8	Tris(1,3-dichloro-2-propyl)phosphate	C9H15Cl6O4P	430,9	2
+PLA	1	2925	140-66-9	4-tert-Octylphenol	C14H22O	206,32	2
+PLA	1	3072	143-07-7	Lauric Acid	C12H24O2	200,32	1
+PLA	1	4325	1843-05-6	Octabenzone	C21H26O3	326,4	2
+PLA	1	6059	25973-55-1	UV-328	C22H29N3O	351,5	2
+PLA	1	8103	3864-99-1	2,4-Di-tert-butyl-6-(5-chloro-2H-benzotriazol-2-yl)phenol	C20H24ClN3O	357,9	2
+PLA	1	8134	3896-11-5	Bumetrizole	C17H18ClN3O	315,8	1
+PLA	1	9023	50-21-5	Lactic Acid	C3H6O3	90,08	1
+PLA	1	10042	57-10-3	n-Hexadecanoic acid / Palmitic Acid	C16H32O2	256,42	0,5
+PLA	2	10845	6197-30-4	Octocrylene	C24H27NO2	361,5	2
+PLA	2	13733	77-90-7	Acetyl tributyl citrate	C20H34O8	402,5	2
+PLA	1	13957	78-32-0	Tricresyl phosphate	C21H21O4P	368,4	2
+PLA	1	13962	78-42-2	Tris(2-ethylhexyl) phosphate	C24H51O4P	434,6	2
+PLA	1	14453	84-61-7	Dicyclohexyl phthalate	C20H26O4	330,4	2
+PLA	1	14464	84-75-3	Dihexyl phthalate	C20H30O4	334,4	2
+PHA	0,25	1264	112-99-2	Dioctadecylamine	C36H75N	522	2
+PHA	0,25	1565	120-12-7	Anthracene	C14H10	178,23	2
+PHA	0,25	2165	129-00-0	Pyrene	C16H10	202,25	2
+PHA	0,25	3639	1593-77-7	Dodemorph	C18H35NO	281,5	2
+PHA	0,25	4502	191-24-2	Benzo[ghi]perylene	C22H12	276,3	2
+PHA	0,25	4517	192-97-2	Benzo[e]pyrene	C20H12	252,3	2
+PHA	0,25	4537	193-39-5	Indeno[1,2,3-cd]pyrene	C22H12	276,3	0.5
+PHA	0,25	4765	205-99-2	Benzo[b]fluoranthene	C20H12	252,3	2
+PHA	0,25	4791	206-44-0	Fluoranthene	C16H10	202,25	2
+PHA	0,25	4824	208-96-8	Acenaphthylene	C12H8	152,19	2
+PHA	0,25	4828	2082-79-3	Octadecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate	C35H62O3	530,9	1
+PHA	0,25	5015	218-01-9	Chrysene	C18H12	228,3	2
+PHA	0,25	9028	50-32-8	Benzo[a]pyrene	C20H12	252,3	2
+PHA	0,25	9471	53-70-3	Dibenz[a,h]anthracene	C22H14	278,3	2
+PHA	0,25	9775	5518-18-3	Hexadecanamide, N,N'-1,2-ethanediylbis-	C34H68N2O2	536,9	0,5
+PHA	0,25	9957	5632-97-3	Octacosanedioic acid	C28H54O4	454,7	2
+PHA	0,25	11030	629-54-9	Hexadecanamide	C16H33NO	255,44	0,5
+PHA	0,25	14375	83-32-9	Acenaphthene	C12H10	154,21	2
+PHA	0,25	14567	85-01-8	Phenanthrene	C14H10	178,23	2
+PHA	0,25	14729	86-73-7	Fluorene	C13H10	166,22	2
+PHA	0,25	15339	91-20-3	Naphthalene	C10H8	128,17	2
+PBS	0,25	9957	5632-97-3	Octacosanedioic acid	C28H54O4	454,7	0,5
+PBS	0,25	11230	63823-21-2	4,7,10,13-Tetraoxapentacosane-1,2-diol	C21H44O6	392,6	0,5
+PBAT	0,25	1264	112-99-2	Dioctadecylamine	C36H75N	522	2
+PBAT	0,25	3639	1593-77-7	Dodemorph	C18H35NO	281,5	2
+PBAT	0,25	4828	2082-79-3	Octadecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate	C35H62O3	530,9	1
+PBAT	0,25	9775	5518-18-3	Hexadecanamide, N,N'-1,2-ethanediylbis-	C34H68N2O2	536,9	0,5
+PBAT	0,25	11030	629-54-9	Hexadecanamide	C16H33NO	255,44	0,5
+Cellulose	0,25	1264	112-99-2	Dioctadecylamine	C36H75N	522	2
+Cellulose	0,25	1551	1195-79-5	Fenchone	C10H16O	152,23	1
+Cellulose	0,25	3639	1593-77-7	Dodemorph	C18H35NO	281,5	2
+Cellulose	0,25	4828	2082-79-3	Octadecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate	C35H62O3	530,9	1
+Cellulose	0,25	9115	507-70-0	1,7,7-Trimethylbicyclo[2.2.1]heptan-2-ol	C10H18O	154,25	1
+Cellulose	0,25	9775	5518-18-3	Hexadecanamide, N,N'-1,2-ethanediylbis-	C34H68N2O2	536,9	0,5
+Cellulose	0,25	11030	629-54-9	Hexadecanamide	C16H33NO	255,44	0,5
+Cellulose	0,25	13585	76-22-2	Camphor	C10H16O	152,23	2
+Cellulose	0,25	14050	79-92-5	Camphene	C10H16	136,23	1
+Cellulose	0,25	14458	84-66-2	Diethyl Phthalate	C12H14O4	222,24	2
+Starch	0,25	11	100-42-5	Styrene	C8H8	104,15	2
+Starch	0,25	19	100-52-7	Benzaldehyde	C7H6O	106,12	2
+Starch	0,25	500	104-76-7	2-Ethylhexan-1-ol	C8H18O	130,23	1
+Starch	0,25	652	106-42-3	P-Xylene	C8H10	106,16	2
+Starch	2	888	108-88-3	Toluene	C7H8	92,14	2
+Starch	0,25	891	108-93-0	Cyclohexanol	C6H12O	100,16	2
+Starch	0,25	1082	111-13-7	2-Octanone	C8H16O	128,21	0,5
+Starch	0,25	1089	111-27-3	1-Hexanol	C6H14O	102,17	0,5
+Starch	0,25	1125	111-87-5	1-Octanol	C8H18O	130,23	0,5
+Starch	0,25	1264	112-99-2	Dioctadecylamine	C36H75N	522	2
+Starch	2	1925	123-63-7	Paraldehyde	C6H12O3	132,16	2
+Starch	2	2977	141-32-2	Butyl Acrylate	C7H12O2	128,17	2
+Starch	0,25	2985	141-78-6	Ethyl Acetate	C4H8O2	88,11	2
+Starch	0,25	3639	1593-77-7	Dodemorph	C18H35NO	281,5	2
+Starch	0,25	4828	2082-79-3	Octadecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate	C35H62O3	530,9	1
+Starch	0,25	8897	475-20-7	(+)-Longifolene	C15H24	204,35	2
+Starch	0,25	9775	5518-18-3	Hexadecanamide, N,N'-1,2-ethanediylbis-	C34H68N2O2	536,9	0,5
+Starch	0,25	10315	590-01-2	Butyl propionate	C7H14O2	130,18	1
+Starch	0,25	11030	629-54-9	Hexadecanamide	C16H33NO	255,44	0,5
+Starch	2	11630	66-25-1	Hexanal	C6H12O	100,16	0,5
+Starch	2	12863	71-36-3	1-Butanol	C4H10O	74,12	2
+Starch	0,25	13585	76-22-2	Camphor	C10H16O	152,23	2
+Starch	0,25	14105	80-62-6	Methyl methacrylate	C5H8O2	100,12	2
+Starch	2	15339	91-20-3	Naphthalene	C10H8	128,17	2
+Starch	0,25	16056	99-87-6	p-CYMENE	C10H14	134,22	1

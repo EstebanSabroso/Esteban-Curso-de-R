@@ -1,0 +1,60 @@
+---
+author: "Esteban Sabroso"
+title: "Proyecto de aditivos en R"
+date: today
+date-format: "DD/MM/YY"
+format:     
+   docx:       
+     reference-doc: reference_custom.docx
+---
+
+## Carga de datos de aditivos
+
+Aqui cargamos las tablas que vamos a utilizar para tratar los datos
+
+```{r Carga de archivos}
+#| eval: true
+#| message: true
+#| warning: false
+
+library(tidyverse)
+
+rbiodeg <- read_delim(file = "CAS_RBiodeg-txt_OPERA2.9Pred.csv", delim = ",") 
+#decimos que los decimales son comas
+
+aditivos <- read_delim(file = "aditivosr.txt",
+                       delim = "\t",  #delimitado por tabulaciones
+                       locale = locale(decimal_mark = ",")
+                       #decimos que los decimales son comas
+)
+
+
+```
+
+Tenemos un problema! Toxicity nos marca que es un caracter
+
+```{r Resumen estadistico}
+#| message: true
+#| warning: false
+summary(aditivos) #toxicity se marca como character siendo un numero
+```
+
+Quitamos las comas a puntos
+
+```{r Limpieza de datos}
+unique(aditivos$`Toxicity score (<0,5)`)
+head(aditivos$`Toxicity score (<0,5)`, 10)
+aditivos$`Toxicity score (<0,5)` <- gsub(",", ".", aditivos$`Toxicity score (<0,5)`) #cambiamos las comas por puntos
+
+
+aditivos$`Toxicity score (<0,5)` <- as.numeric( aditivos$`Toxicity score (<0,5)`) 
+#cambiamos a numerico
+
+summary(aditivos) #Vemos se ha salido bien
+```
+
+## Unimos las tablas
+
+Unimos las dos tablas, tienen las mismas filas en orden con los resultados es decir, son dos tablas complementarias.
+
+
